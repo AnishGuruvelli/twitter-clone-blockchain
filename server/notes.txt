@@ -1,0 +1,9 @@
+anishguruvelli@Anishs-MacBook-Air server % npx hardhat run scripts/deploy.js --network goerli
+Contract deployed to:  0x0Eb2212CAB945cA9d86905BFA8d6Ce3D8A10888E
+
+https://goerli.etherscan.io/address/0x76dab2bc115dae7d0fc429a74596818b39d4021d
+
+npx hardhat test
+npx hardhat run scripts/deploy.js --network goerli
+Contract deployed to: 0x5c12d982E9149F4cE69e6cDf679765f019d7fEA5
+npm start
